@@ -1,0 +1,36 @@
+https://blog.naver.com/sooftware/221784419691
+
+seq2seq
+시계열 데이터들을 다른 시계열 데이터로 변환
+ex) 기계번역, 음성인식
+
+seq2seq를 encoder-decoder모델라고도 부름
+encoder는 입력데이터를 인코딩하고, decoder는 인코딩된 데이터를 디코딩
+
+encoder는 어떤 시계열 데이터를 압축해서 표현하고
+decoder는 압축된 데이터를 다른 시계열데이터로 변환
+
+인코더는 데이터를 입력받아서 하나의 벡터로 정보를 압축함
+이때의 벡토를 context vector라고 하고 디코더는 이 context vector를 이용해서 번역을 수행
+
+인코더는 rnn(or lstm, gru)를 이용해서 데이터를 h라는 hidden state vector로 변환함
+
+encoder가 출력하는 벡터h는 마지막 rnn셀의 hidden state 따라서 encoder는 그냥 rnn을 이어놓은 꼴이다.
+또한 encoder가 내놓는 context vector는 결국 rnn의 마지막 hidden state이므로 고정길이 벡터임
+
+디코더는 기본적으로 rrnlm(rnn language model)이다
+
+decoder는 encoder로 부터 h(context vector)를 넘겨받는다
+그리고 첫 입력으로는 문장의 시작 심볼인 <s>가 들어감
+
+decoder의 첫번째 rnn 셀은 context vector와 <s>이 2개의 입력을 바탕으로 새로운 hidden state를 계산하고 ㅣ를 affine 계층과 softmax계층을 거쳐서 다음 등장확률이 높은것을 예측함
+
+이때 affine계층은 hidden state를 입력으로 받아 분류개수로 출력하는 피드포워드 네트워크임
+
+그리고 계산한 새로운 hidden state와 예측한 것을 입력으로 해서 2번째 예측을 수행
+
+위의 과정을 문장의 끝인 </s>가 다음단어로 예측될때까지 반복
+
+여기서 decoder어ㅘ rnnlm의 차이점은 인코더에서 만든 context vector의 입력여부이다
+
+encoder의 마지막 hidden state가 encoder와 decoder의 순전파와 역전파를 이어주는 다리가 됨
