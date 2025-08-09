@@ -1,20 +1,19 @@
 ---
 layout: post
-title: LOLEX Patch Notes (ENG)
+title: LOLEX BUG FIXES
 tags: [Web Develop, League of Legends, LOLEX, ENG]
 feature-img: "assets/img/0.post/2024-04-13/header2.png"
 thumbnail: "assets/img/0.post/2024-04-13/header2.png"
 categories: LOLEX
 ---
 
-Hi, everyone! Director here with some patch notes.<br>
-This patch is fist patch in [**LOLEX**](http://ko-web.com/lolex). This patch is not added new fuction and deleted some fuctions, also **fixed a fatal BUGs**. "
+This patch is fist patch in [**LOLEX**](https://ko-web.com/lolex). This patch is not added new fuction and deleted some fuctions, also **fixed a fatal BUGs**. "
 
 For more information on **LOLEX**, Please click [**here**](https://koderwiki.github.io/lolex/2024/02/15/LOLEX-Release.html)! <br>
 
 ## [BUG FIXES.1] match-v5 returns meaningless data 
 
-We've found that **some of match historys didn't recieved data properly**. After looking at the cause, we can find out that **the cause was RIOT API**.
+I've found that **some of match historys didn't recieved data properly**. After looking at the cause, we can find out that **the cause was RIOT API**.
 
 ```json
 "info": {
@@ -39,13 +38,13 @@ We've found that **some of match historys didn't recieved data properly**. After
         "participants": []
     }
 ```
-For what reason, Riot API sent data that didn't contain anything, so we can't recognize this. So we solved this problem by making an exception of error. But inevitably, **we can't confirm match records of the error**.
+For some reason, The data sent by Riot API didn't contain anything. 
 
 ![image](https://github.com/KoderWiki/koderwiki.github.io/assets/153072257/95ccb3d1-e534-4d59-9dd7-7160071ed63f)
 
 ## [BUG FIXES.2] Changed structure of SUMMONER-V4
 
-We've found that Summoner's name is inaccurate. It because, structure of SUMMONER-V4 is changed.
+I've found that Summoner's name is inaccurate. It because, structure of SUMMONER-V4 has been changed.
 
 ```python
     puuid = id_data['puuid']
