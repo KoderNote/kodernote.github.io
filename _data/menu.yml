@@ -1,7 +1,7 @@
 # To add links to the navigation bar.
 - example:
   title: "Ko-web"
-  url: https://ko-web.com
+  url: https://ko-web.com/
   position: 2
 - type-on-strap:
   title: "Ko-web"
