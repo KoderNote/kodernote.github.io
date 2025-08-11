@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LOLEX BUG FIXES
-tags: [Web Develop, League of Legends, LOLEX, ENG]
+tags: [Web Develop, League of Legends, LOLEX]
 feature-img: "assets/img/0.post/2024-04-13/header2.png"
 thumbnail: "assets/img/0.post/2024-04-13/header2.png"
 categories: LOLEX
