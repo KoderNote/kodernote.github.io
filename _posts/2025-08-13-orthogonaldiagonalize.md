@@ -115,7 +115,7 @@ $$
 
 그리고 각각의 기저에 대해 Gram-Schmidt 직교화과정을 적용하자. <br>
 
-직교화과정이 기억이 안나면 [Linear Algebra, 직교기저(Orthogonal basis) | Koder Wiki](https://koderwiki.github.io/cse,/ai/2025/08/09/ob.html)부분을 참고하자 <br>
+직교화과정이 기억이 안나면 [Linear Algebra, 직교기저(Orthogonal basis)](https://koderwiki.github.io/cse,/ai/2025/08/09/ob.html)부분을 참고하자 <br>
 
 그럼 다음과 같은 기저를 얻을수있다 (단순 계산과정이니 넘어가자)
 
@@ -137,6 +137,8 @@ P =
 0 & \tfrac{2}{\sqrt{6}} & \tfrac{1}{\sqrt{3}}
 \end{pmatrix}
 $$
+이해를 위해 그림을 참고하자
+<img width="626" height="683" alt="image" src="https://github.com/user-attachments/assets/19982be3-e8c2-425d-8f30-87e07b2d4bfd" />
 
 <br>
 
