@@ -115,7 +115,7 @@ $$
 
 그리고 각각의 기저에 대해 Gram-Schmidt 직교화과정을 적용하자. <br>
 
-직교화과정이 기억이 안나면 [**직교기저**]([Linear Algebra, 직교기저(Orthogonal basis) | Koder Wiki](https://koderwiki.github.io/cse,/ai/2025/08/09/ob.html))부분을 참고하자 <br>
+직교화과정이 기억이 안나면 [Linear Algebra, 직교기저(Orthogonal basis) | Koder Wiki](https://koderwiki.github.io/cse,/ai/2025/08/09/ob.html)부분을 참고하자 <br>
 
 그럼 다음과 같은 기저를 얻을수있다 (단순 계산과정이니 넘어가자)
 
