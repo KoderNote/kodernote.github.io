@@ -137,6 +137,8 @@ P =
 0 & \tfrac{2}{\sqrt{6}} & \tfrac{1}{\sqrt{3}}
 \end{pmatrix}
 $$
+이해를 위해 그림을 참고하자
+<img width="626" height="683" alt="image" src="https://github.com/user-attachments/assets/19982be3-e8c2-425d-8f30-87e07b2d4bfd" />
 
 <br>
 
