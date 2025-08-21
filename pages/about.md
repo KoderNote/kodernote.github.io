@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-인천대학교 정보통신공학과를 재학중인 **고건우**입니다. <br>
+인천대학교 정보통신공학과를 재학중인 **고건우**입니다.<br>
 <br>
 ## **WEB SITE**
 
