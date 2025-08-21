@@ -1,21 +1,19 @@
 ---
 layout: post
-title: Cake
-feature-img: "assets/img/portfolio/cake.png"
-img: "assets/img/portfolio/cake.png"
-date: 27 September 2015
-tags: [Lorem, Ipsum]
+title: LOLEX
+feature-img: "assets/img/0.post/2024-02-15/header2.png"
+img: "assets/img/0.post/2024-02-15/header2.png"
+date: 15 Feburery 2024
+tags: [LOLEX, project]
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+[**LOLEX**](http://ko-web.com/lolex) is my first own web site and **League of Legends's** game data platform. <br>
 
-Use this area of the page to describe your project. 
-The icon above is part of a free icon set by Flat Icons. 
+![image](https://github.com/KoderWiki/koderwiki.github.io/assets/153072257/9a5bb424-e742-4237-bf63-1cfcea5dda23)
+
+## **LOLEX**
+**Developer** &nbsp;&nbsp;&nbsp;&nbsp; K.Geonu <br>
+**Type of site** &nbsp;&nbsp; Game data platform <br>
+**Written in** &nbsp;&nbsp;&nbsp;&nbsp; Flask(Python) <br>
+**Languages** &nbsp;&nbsp;&nbsp; Korean(한국어) <br>
+**Released** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024-02-15 <br>

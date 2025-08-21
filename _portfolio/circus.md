@@ -1,20 +1,18 @@
 ---
 layout: post
-title: Circus
-img: "assets/img/portfolio/circus.png"
-date: September 2014
-tags: [Ipsum]
+title: INURoGue
+img: "assets/img/0.post/2025-06-20/intro.png"
+date: June 2025
+tags: [Pygame, Pokemon, Softmax, Computer Algorithm]
 ---
 
-![image]({{ page.img | relative_url }})
+[**INURoGue**] 는 한때 인기였던 **pokerogue** 를 모티브로 만든 **포켓몬 배틀 게임** 입니다<br>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
-eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, 
-adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![image](https://github.com/user-attachments/assets/4ae9926f-3532-41db-b5a1-1ba26f5856a2)
+
+## **INURogue**
+**Developer** &nbsp;&nbsp;&nbsp;&nbsp; 고건우 <br>
+**Type** &nbsp;&nbsp; Pokemon battle game <br>
+**Written in** &nbsp;&nbsp;&nbsp;&nbsp; Pygame(Python) <br>
+**Languages** &nbsp;&nbsp;&nbsp; Korean(한국어) <br>
 
