@@ -160,6 +160,14 @@ $$
 
 그리고 처음풀때는 부동산계약서처럼 아무것도 안보이는게 정상이다.<br>
 
+이해를 위해 부족하지만 그림을 참고하자. <br>
+
+<img width="1571" height="869" alt="image" src="https://github.com/user-attachments/assets/92b728e2-3bb6-4803-942d-98d301ab3fbb" />
+<br>
+<img width="1518" height="875" alt="image" src="https://github.com/user-attachments/assets/ae37f228-6164-4a17-85da-9a9468fcb38f" />
+<br>
+<img width="1483" height="893" alt="image" src="https://github.com/user-attachments/assets/78bdab36-1951-47fd-a21a-23145bc172bb" />
+<br>
 <br>
 
 ##### 문제1
