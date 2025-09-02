@@ -14,7 +14,9 @@ categories: CSE, AI
 
 ## 직교 대각화(Orthogonal Diagonalize)
 
-지난번 대각행렬에서 계속해서 조건이 추가된다고 생각하자.
+지난번 대각행렬에서 계속해서 조건이 추가된다고 생각하자. <br>
+
+원서 : **Strang, G. (2023). *Introduction to Linear Algebra* (6th ed.).** <br>
 
 #### 1. 직교대각화(Orthogonal Diagonalize)
 

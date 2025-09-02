@@ -22,6 +22,7 @@ categories: CSE, AI, LinearAlgebra
 이게 중요한 이유는 **미분(differentiation)** 같은 추상적 연산도 **행렬 곱** 으로 다룰 수 있다. <br>
 
 개인적으로 지금부터 나올 **표현행렬(matrix representation)** 과 **추이행렬(기저변환행렬, change-of-basis matrix)** 이 진정한 선형대수의 꽃이라고 생각한다.<br>
+원서 : **Strang, G. (2023). *Introduction to Linear Algebra* (6th ed.).** <br>
 
 <br>
 
