@@ -163,11 +163,14 @@ $$
 
 이해를 위해 부족하지만 그림을 참고하자. <br>
 
-<img width="1571" height="869" alt="image" src="https://github.com/user-attachments/assets/92b728e2-3bb6-4803-942d-98d301ab3fbb" />
+<img width="1326" height="822" alt="image" src="https://github.com/user-attachments/assets/ffcfe0b5-fcee-492f-8753-41f74f19c8da" />
+
 <br>
-<img width="1518" height="875" alt="image" src="https://github.com/user-attachments/assets/ae37f228-6164-4a17-85da-9a9468fcb38f" />
+<img width="1161" height="873" alt="image" src="https://github.com/user-attachments/assets/f73f7e45-3d2e-46f9-8d77-5b9ffb81eee1" />
+
 <br>
-<img width="1483" height="893" alt="image" src="https://github.com/user-attachments/assets/78bdab36-1951-47fd-a21a-23145bc172bb" />
+<img width="1360" height="807" alt="image" src="https://github.com/user-attachments/assets/75f3ad95-db85-4fe4-889a-79b12562c2cc" />
+
 <br>
 <br>
 
