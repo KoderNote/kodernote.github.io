@@ -40,7 +40,8 @@ categories: CSE, AI, Calculus
 
 또한 임의의 x₁, x₂에 대하여 x₁ < x₂ 일 때, f(x₁) ≤ f(x₂)가 성립하면 함수 f(x)는 **단조증가함수**라 한다.<br>
 
-<img width="720" height="758" alt="image" src="https://github.com/user-attachments/assets/2970ce03-3e6b-486b-b6c9-8130fb756869" />
+<img width="700" height="708" alt="image" src="https://github.com/user-attachments/assets/9b45ae3c-4b52-4c70-973b-23edad0a162a" />
+
 
 
 <br>
@@ -50,7 +51,8 @@ categories: CSE, AI, Calculus
 정의역에 속하는 임의의 x₁, x₂에 대하여 x₁ < x₂ 일 때, f(x₁) > f(x₂)가 성립하면 함수 f(x)는 **감소함수** 라 한다. <br>
 
 또한 임의의 x₁, x₂에 대하여 x₁ < x₂ 일 때, f(x₁) ≥ f(x₂)가 성립하면 함수 f(x)는 **단조감소함수** 라 한다. <br>
-<img width="738" height="756" alt="image" src="https://github.com/user-attachments/assets/e9ae97c2-e5d0-42f6-994a-b99cf11c0a8d" />
+<img width="729" height="689" alt="image" src="https://github.com/user-attachments/assets/455ad06d-97d8-4268-8e21-3b5b117cade9" />
+
 
 
 <br>
